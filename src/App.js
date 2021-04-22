@@ -1,5 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import { DatePicker } from 'antd';
+import ReactDOM from 'react-dom';
+let mountNode = document.getElementById("root");
+
+ReactDOM.render(<DatePicker/>, mountNode);
 
 function App() {
   return (

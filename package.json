@@ -1,5 +1,5 @@
 {
-  "title": "Header-Sider - antd@4.12.3",
+  "title": "Header-Content-Footer - antd@4.15.2",
   "scripts": {
     "test": "react-scripts test --env=jsdom",
     "start": "react-scripts start",
@@ -14,7 +14,7 @@
     "react-scripts": "^4.0.0",
     "react-dom": "^16.14.0",
     "react": "^16.14.0",
-    "antd": "4.12.3",
+    "antd": "4.15.2",
     "@ant-design/icons": "latest"
   },
   "browserslist": [
